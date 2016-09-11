@@ -1,0 +1,12 @@
+{
+  "name": "learn-you-node",
+  "version": "1.0.0",
+  "description": "My solutions to the learn-you-node course",
+  "author": "Cory Norris",
+  "license": "ISC",
+  "devDependencies": {
+    "async": "^2.0.1",
+    "strftime": "^0.9.2",
+    "through2-map": "^2.0.0"
+  }
+}
