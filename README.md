@@ -1,4 +1,4 @@
-# learn-you-node
+# Learn You Node
 ## Overview
 This repository contains the solutions to the projects from the [Node School](http://nodeschool.io/) class, `learn you nodejs`.
 
